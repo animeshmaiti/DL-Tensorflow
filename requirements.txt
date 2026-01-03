@@ -1,0 +1,7 @@
+tensorflow[and-cuda]
+tensorflow-hub
+pandas
+opencv-python
+matplotlib
+pillow
+numpy
