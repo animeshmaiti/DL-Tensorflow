@@ -1,5 +1,6 @@
 tensorflow[and-cuda]
 tensorflow-hub
+scikit-learn
 pandas
 opencv-python
 matplotlib
